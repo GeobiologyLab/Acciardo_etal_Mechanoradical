@@ -1,0 +1,15 @@
+genome,Thioredoxin 1 and/or 2,Thioredoxin Reductase,Superoxide Dismutase 1 and/or 2,Superoxide Reductase,Catalase,Catalase-Peroxidase,Glutathione or Thiol Peroxidase,Cytochrome c Peroxidase,Akyl Hydroperoxide Reductase,Rubrerythin,Glutaredoxin
+MAG_3,1,1,1,0,0,1,1,1,0,0,1
+MAG_2,1,1,1,0,0,1,1,1,0,0,1
+MAG_4,1,1,1,0,1,1,1,0,0,0,1
+MAG_8,1,1,1,0,1,0,1,0,0,0,0
+MAG_12,1,1,1,0,0,1,0,0,0,0,0
+MAG_14,1,1,0,1,0,1,1,0,0,0,0
+MAG_13,1,1,1,0,0,1,1,0,0,0,1
+MAG_6,1,1,1,1,1,0,0,0,0,0,0
+MAG_1,1,1,1,0,0,1,0,0,0,1,0
+MAG_10,1,1,1,0,0,1,0,1,0,0,0
+MAG_11,1,1,0,1,0,1,0,0,0,0,0
+MAG_7,1,1,0,1,0,1,0,0,0,0,0
+MAG_9,1,0,1,0,0,1,1,0,0,0,0
+MAG_5,1,1,1,1,0,1,1,0,1,0,1
